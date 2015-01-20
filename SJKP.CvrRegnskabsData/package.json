@@ -1,0 +1,17 @@
+{
+    "name": "SJKP.CvrRegnskabsData",
+    "version": "0.0.0",
+    "description": "SJKP.CvrRegnskabsData",
+    "main": "app.js",
+    "author": {
+        "name": "Simon Pedersen",
+        "email": "mail@sjkp.dk"
+    },
+    "dependencies": {
+        "express": "3.4.4",
+        "jade": "*",
+        "stylus": "*",
+        "request": "2.51.0",
+        "cheerio": "0.18.0"
+    }
+}
